@@ -1,0 +1,4 @@
+# GitHub Pages settings. Keep notes and tooling in the repository but off the public site.
+exclude:
+  - README.md
+  - scripts
